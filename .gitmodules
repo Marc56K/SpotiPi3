@@ -1,0 +1,6 @@
+[submodule "SpotiPi3_RPI"]
+	path = SpotiPi3_RPI
+	url = https://github.com/Marc56K/SpotiPi3_RPI.git
+[submodule "SpotiPi3_ESP32"]
+	path = SpotiPi3_ESP32
+	url = https://github.com/Marc56K/SpotiPi3_ESP32.git
